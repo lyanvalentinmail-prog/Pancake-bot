@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+
+# Sesiones de WhatsApp (¡nunca subir!)
+Sessions/
+database.json
+
+# Archivos temporales
+lib/system/tmp/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
